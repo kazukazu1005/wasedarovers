@@ -430,7 +430,7 @@ footer i:hover {
     }
 
     .q::after{
-        font-size: 15px;
+        font-size: 20px;
     }
     .answer{
         height: auto;
@@ -445,7 +445,7 @@ footer i:hover {
     }
 
     footer a{
-        font-size: 30%;
+        font-size: 60%;
     }
 
 
