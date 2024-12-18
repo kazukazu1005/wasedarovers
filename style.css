@@ -428,6 +428,10 @@ footer i:hover {
     h3 {
         font-size: 25px;
     }
+
+    .q::after{
+        font-size: 25px;
+    }
     .answer{
         height: auto;
     }
@@ -443,5 +447,6 @@ footer i:hover {
     footer a{
         font-size: 30%;
     }
+
 
 }
